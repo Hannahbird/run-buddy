@@ -202,6 +202,16 @@ header {
   width: 65%;
 }
 
+/* REACH OUT STYLES START */
+.contact {
+  text-align: center;
+  background-color: #024e76;
+}
+
+.contact h2 {
+  color: #fce138; 
+}
+
   footer {
     background: #fce138;
     width: 100%;
